@@ -2,6 +2,14 @@
 
 Homebrew packages for j-256 projects.
 
+## Install Timestamp Only
+
+```sh
+brew install --cask j-256/tap/timestamp-only
+```
+
+Timestamp Only automatically gives new macOS screenshots concise, configurable timestamp filenames. See the [Timestamp Only repository](https://github.com/j-256/timestamp-only) for installation alternatives, settings, privacy details, and release notes.
+
 ## Install QLOmni
 
 ```sh
