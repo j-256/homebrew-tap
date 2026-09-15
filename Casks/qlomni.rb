@@ -1,6 +1,6 @@
 cask "qlomni" do
-  version "1.11.0"
-  sha256 "1dfe920ede18c6def55a2d79bfc4fbe8fd51df15d6e00bada3ce46aeb16269b5"
+  version "1.12.0"
+  sha256 "a21a422e1003122e26d514db381f11e05b9c613cbdf3e73b01bd4fef2e282113"
 
   url "https://github.com/j-256/qlomni/releases/download/v#{version}/QLOmni-#{version}.zip"
   name "QLOmni"
